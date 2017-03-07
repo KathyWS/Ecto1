@@ -1,0 +1,2 @@
+# Ecto1
+Ghosts
